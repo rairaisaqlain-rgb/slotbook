@@ -2,32 +2,44 @@
 
 # SlotBook
 
-**One booking page for a one-person shop**
+### Local-service booking page
 
-[Live site](https://rairaisaqlain-rgb.github.io/slotbook/) · [Download](https://pannki.com/slotbook.zip)
+**KERNELX · founders build · 180 days free**
+
+[Download SlotBook.zip](https://pannki.com/slotbook.zip) · [Landing](./apps/web/index.html) · [Org](https://github.com/rairaisaqlain-rgb)
 
 </div>
 
-## Problem
+---
 
-Local US services still book work in Instagram DMs. SlotBook is a public 30-minute slot page, not a Calendly competitor with 20 integrations.
+## What’s in the zip
 
-## Founders
+A Windows desktop package with one public 30-minute booking page for a solo local-service shop.
 
-- 1 calendar, 1 location
-- Timezone default `America/New_York`
-- Free 17 Sep 2026 → 16 Mar 2027
-- Then $19 / month solo
-- SMS reminders are not in this zip
+## Who it’s for
 
-## Download
+Tutors, detailing, HVAC callbacks, and other one-person US shops replacing Instagram-DM scheduling.
 
-https://pannki.com/slotbook.zip → `slotbook.exe`
+## Who it’s not for
 
-## Enable the site
+Not a staff scheduling suite, round-robin calendar, SMS platform, or 20-integration Calendly clone.
 
-If https://rairaisaqlain-rgb.github.io/slotbook/ is 404: repo Settings → Pages → branch `main` → folder `/ (root)`.
+## Founders download
 
-## Not in v1
+One calendar is free for 180 days, no card on signup. Day 181 is a paid solo plan unless cancelled.
 
-Staff packs, round-robin, payments inside the page.
+[Download SlotBook.zip](https://pannki.com/slotbook.zip)
+
+## FAQ
+
+**Does it install a cloud account?** No account is required for the local founders build.
+
+**What happens after day 180?** The paid plan applies on day 181; this is not forever free.
+
+**Will Windows warn?** An unsigned exe may trigger SmartScreen; that is expected for this build.
+
+---
+
+[Download SlotBook.zip](https://pannki.com/slotbook.zip)
+
+*SlotBook — KERNELX lab*
