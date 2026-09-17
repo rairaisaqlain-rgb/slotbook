@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
   <rect width="1280" height="720" fill="#140a06"/>
-  <text x="640" y="36" text-anchor="middle" fill="#ffe8d6" font-family="Arial" font-size="16" font-weight="700">Website Navigation: Home • Downloads • Docs • Modules</text>
+  <text x="640" y="36" text-anchor="middle" fill="#ffe8d6" font-family="Arial,sans-serif" font-size="16" font-weight="700">Website Navigation: Home • Updates • Downloads • Modules</text>
   <rect x="40" y="56" width="1200" height="608" fill="#1a0f0a" stroke="#9a4a22" stroke-width="2"/>
   <rect x="56" y="76" width="430" height="46" fill="#c2410c"/>
-  <text x="76" y="108" fill="#fff" font-family="Arial" font-size="26" font-weight="700">SLOTBOOK</text>
-  <text x="76" y="186" fill="#fff" font-family="Arial" font-size="38" font-weight="700">BOOKING PAGE.</text>
-  <text x="76" y="234" fill="#fff" font-family="Arial" font-size="38" font-weight="700">NOT YOUR DMs.</text>
-  <rect x="76" y="258" width="640" height="36" fill="#c2410c"/>
-  <text x="88" y="283" fill="#fff" font-family="Arial" font-size="16" font-weight="700">30-MIN SLOTS · ONE CALENDAR · AMERICA/NEW_YORK · NOT CALENDLY</text>
+  <text x="76" y="108" fill="#fff" font-family="Arial,sans-serif" font-size="26" font-weight="700">SLOTBOOK</text>
+  <text x="76" y="186" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="700">BOOKING PAGE.</text>
+  <text x="76" y="234" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="700">NOT YOUR DMs.</text>
+  <rect x="76" y="258" width="620" height="36" fill="#c2410c"/>
+  <text x="88" y="283" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">30-MIN SLOTS · ONE CALENDAR · AMERICA/NEW_YORK</text>
   <rect x="720" y="90" width="500" height="280" fill="#2a1810" stroke="#ff7a3c" stroke-width="2"/>
-  <text x="744" y="170" fill="#ffe8d6" font-family="Arial" font-size="20">slotbook.exe</text>
-  <text x="744" y="200" fill="#c9a38c" font-family="Arial" font-size="14">https://pannki.com/slotbook.zip</text>
+  <text x="744" y="170" fill="#ffe8d6" font-family="Arial,sans-serif" font-size="20">slotbook.exe</text>
+  <text x="744" y="210" fill="#c9a38c" font-family="Arial,sans-serif" font-size="16">One location. Founders window.</text>
   <rect x="76" y="470" width="1128" height="54" fill="#c2410c"/>
-  <text x="96" y="505" fill="#fff" font-family="Arial" font-size="20" font-weight="700">FOUNDERS · 1 LOCATION · FREE 180 DAYS</text>
+  <text x="96" y="505" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">ONE CALENDAR · NOT A STAFF PACK</text>
 </svg>
