@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8" /><title>SlotBook</title></head>
+<body>
+  <h1>Book a 30-minute slot</h1>
+  <div id="slots"></div>
+  <script type="module">
+    import { nextSlots } from '../slots/availability.js';
+    const root = document.getElementById('slots');
+    nextSlots(new Date()).forEach((s) => {
+      const b = document.createElement('button');
+      b.textContent = s.label;
+      root.appendChild(b);
+    });
+  </script>
+</body>
+</html>
