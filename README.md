@@ -1,12 +1,24 @@
+<div align="center">
+
 # SlotBook
 
-Booking page for US local services (HVAC, dental admin, salons, tutors).
+### Booking page for a one-person shop
 
-**Offer:** $29/mo one booking page + reminders later.
-**Buyer:** owners who bounce between Instagram DMs and a paper calendar.
+[Download ZIP](https://pannki.com/slotbook.zip) · [Landing](./apps/web/index.html)
 
-## Repo map
+<img src="https://img.shields.io/badge/founders-1_calendar-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/not-calendly-lightgrey?style=for-the-badge" />
 
-- `apps/web` — public booking page
-- `apps/slots` — availability engine stub
-- `docs/OFFER.md`
+</div>
+
+---
+
+## Overview
+
+Public 30-minute slots. Default timezone `America/New_York`. Founders: one location, 180 days. Not a staff suite and not a Calendly replacement.
+
+## Download
+
+[https://pannki.com/slotbook.zip](https://pannki.com/slotbook.zip)
+
+*SlotBook — KERNELX lab*
