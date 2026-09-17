@@ -1,12 +1,12 @@
-html,body{margin:0;background:#fff7ed;color:#1c1917;font-family:system-ui,sans-serif}
-.nav{display:flex;justify-content:space-between;padding:18px 24px}
-.brand{font-weight:800;text-decoration:none;color:inherit}
-nav a{margin-left:16px;color:#c2410c}
-.hero{padding:48px 24px;max-width:820px}
-h1{font-size:clamp(34px,6vw,56px);line-height:1.05}
-.lede{color:#78716c;font-size:19px}
-.btn{display:inline-block;margin-top:22px;background:#c2410c;color:#fff;text-decoration:none;padding:14px 18px;font-weight:700}
-.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));padding:0 24px 48px}
-article{background:#fff;padding:16px}
-footer{padding:24px;color:#78716c}
-.kicker{letter-spacing:.1em;text-transform:uppercase;font-size:12px;color:#c2410c}
+html,body{margin:0;background:#1a0f0a;color:#ffe8d6;font-family:Space Grotesk,system-ui,sans-serif}
+.nav{display:flex;justify-content:space-between;padding:22px 7vw}
+nav a{color:#ffb089;margin-left:18px;text-decoration:none}
+.pill{border:1px solid #9a4a22;padding:7px 12px}
+.hero{padding:12vh 7vw;max-width:900px}
+h1{font-size:clamp(36px,6.5vw,72px);line-height:1;letter-spacing:-.03em}
+.lede{color:#c9a38c;font-size:20px;max-width:520px}
+.kicker{letter-spacing:.16em;text-transform:uppercase;font-size:12px;color:#ff7a3c}
+.btn{display:inline-block;margin-top:26px;background:#ff7a3c;color:#1a0f0a;text-decoration:none;padding:14px 18px;font-weight:700}
+.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;padding:0 7vw 12vh}
+.card{background:#2a1810;padding:20px;border:1px solid #5a2e18}
+footer{padding:24px 7vw 40px;color:#c9a38c}
