@@ -2,23 +2,32 @@
 
 # SlotBook
 
-### Booking page for a one-person shop
+**One booking page for a one-person shop**
 
-[Download ZIP](https://pannki.com/slotbook.zip) · [Landing](./apps/web/index.html)
-
-<img src="https://img.shields.io/badge/founders-1_calendar-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/not-calendly-lightgrey?style=for-the-badge" />
+[Live site](https://rairaisaqlain-rgb.github.io/slotbook/) · [Download](https://pannki.com/slotbook.zip)
 
 </div>
 
----
+## Problem
 
-## Overview
+Local US services still book work in Instagram DMs. SlotBook is a public 30-minute slot page, not a Calendly competitor with 20 integrations.
 
-Public 30-minute slots. Default timezone `America/New_York`. Founders: one location, 180 days. Not a staff suite and not a Calendly replacement.
+## Founders
+
+- 1 calendar, 1 location
+- Timezone default `America/New_York`
+- Free 17 Sep 2026 → 16 Mar 2027
+- Then $19 / month solo
+- SMS reminders are not in this zip
 
 ## Download
 
-[https://pannki.com/slotbook.zip](https://pannki.com/slotbook.zip)
+https://pannki.com/slotbook.zip → `slotbook.exe`
 
-*SlotBook — KERNELX lab*
+## Enable the site
+
+If https://rairaisaqlain-rgb.github.io/slotbook/ is 404: repo Settings → Pages → branch `main` → folder `/ (root)`.
+
+## Not in v1
+
+Staff packs, round-robin, payments inside the page.
