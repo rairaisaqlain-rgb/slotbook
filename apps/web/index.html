@@ -1,17 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8" /><title>SlotBook</title></head>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SlotBook — Booking page for local services</title>
+  <style>
+    :root { --ink:#1c1917; --muted:#78716c; --bg:#fff7ed; --acc:#c2410c; --card:#fff; }
+    * { box-sizing:border-box }
+    body { margin:0; font-family:system-ui,sans-serif; background:var(--bg); color:var(--ink); }
+    .wrap { max-width:880px; margin:0 auto; padding:36px 20px 80px; }
+    h1 { font-size:clamp(32px,6vw,54px); line-height:1.06; }
+    .sub { font-size:19px; color:var(--muted); max-width:640px; }
+    .cta { display:inline-block; margin-top:24px; background:var(--acc); color:#fff; text-decoration:none; padding:15px 22px; font-weight:700; }
+    .note { color:var(--muted); font-size:14px; }
+    .grid { display:grid; gap:14px; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); margin-top:36px; }
+    .card { background:var(--card); padding:18px; }
+  </style>
+</head>
 <body>
-  <h1>Book a 30-minute slot</h1>
-  <div id="slots"></div>
-  <script type="module">
-    import { nextSlots } from '../slots/availability.js';
-    const root = document.getElementById('slots');
-    nextSlots(new Date()).forEach((s) => {
-      const b = document.createElement('button');
-      b.textContent = s.label;
-      root.appendChild(b);
-    });
-  </script>
+  <div class="wrap">
+    <p style="letter-spacing:.1em;text-transform:uppercase;font-size:12px;color:var(--acc)">US local services · Founders</p>
+    <h1>Stop booking jobs out of Instagram DMs.</h1>
+    <p class="sub">One public 30-minute slot page. Founders: 1 calendar free for 6 months. After that $19/mo for a solo shop.</p>
+    <a class="cta" href="http://pannki.com/slotbook.zip">Download SlotBook.zip</a>
+    <p class="note">http://pannki.com/slotbook.zip · Timezone default America/New_York · SMS comes later</p>
+    <div class="grid">
+      <div class="card"><strong>Who</strong><p>Tutors, detailing, HVAC callbacks — one person shop.</p></div>
+      <div class="card"><strong>Free window</strong><p>180 days, 1 location, no staff pack.</p></div>
+      <div class="card"><strong>Not a Calendly clone</strong><p>No round-robin, no 20 integrations in v1.</p></div>
+    </div>
+  </div>
 </body>
 </html>
